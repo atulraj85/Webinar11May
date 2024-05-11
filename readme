@@ -1,0 +1,13 @@
+1. git init
+2. git add filename
+3. git commit -m "your message"
+4. git branch
+5. git checkout branch-name
+6. Connecting local repo to remote repo
+7. SSH key generation
+8. git push
+9. git pull
+10. git log
+11. git status 
+
+
